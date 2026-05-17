@@ -108,9 +108,10 @@ if (pid == 0) {   // Child (Consumer)
 ```
 
 ## OUTPUT
-<img width="1414" height="1113" alt="os 5 op 1" src="https://github.com/user-attachments/assets/64fc7d94-f32e-4073-878c-67351c8ab496" />
+<img width="1600" height="980" alt="os 6 op 1" src="https://github.com/user-attachments/assets/43e532b3-7927-4cff-b232-13505f9badc4" />
 
-<img width="1599" height="538" alt="os 5 op 2" src="https://github.com/user-attachments/assets/149aefc3-7353-415c-9e86-85cd7f101661" />
+<img width="2172" height="338" alt="os 6 op 2" src="https://github.com/user-attachments/assets/aea274bc-56d1-4b7e-b126-81372daf6299" />
+
 
 # RESULT:
 The program is executed successfully.
